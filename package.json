@@ -18,7 +18,6 @@
     "merge-images": "^2.0.0",
     "next": "13.1.1",
     "react": "18.2.0",
-    "react-base64-downloader": "^2.1.7",
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
   },
